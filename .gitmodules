@@ -5,3 +5,11 @@
 [submodule "ondisc"]
 	path = ondisc
 	url = https://github.com/timothy-barry/ondisc
+[submodule "sceptre"]
+	path = sceptre
+	url = https://github.com/katsevich-lab/sceptre
+	registered = false
+[submodule "sceptredata"]
+	path = sceptredata
+	url = https://github.com/katsevich-lab/sceptredata
+	registered = false

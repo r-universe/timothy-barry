@@ -1,0 +1,14 @@
+[
+  {
+    "package": "sceptre",
+    "url": "https://github.com/katsevich-lab/sceptre",
+    "via": ["ondisc"],
+    "from": "ondisc"
+  },
+  {
+    "package": "sceptredata",
+    "url": "https://github.com/katsevich-lab/sceptredata",
+    "via": ["ondisc", "sceptre"],
+    "from": "ondisc"
+  }
+]
